@@ -1,0 +1,161 @@
+body {
+  padding: 0px 100px;
+}
+
+.container {
+  display: flex;
+  gap: 34px;
+  font-family: "Montserrat", sans-serif;
+}
+
+.full-items {
+  display: flex;
+  gap: 15px;
+}
+
+.container .image .img {
+  margin-top: 30px;
+  width: 110px;
+}
+
+.container .image img {
+  width: 100%;
+}
+
+.items {
+  margin-top: 25px;
+  cursor: pointer;
+}
+
+.material-symbols-outlined {
+  margin-top: 25px;
+}
+
+.login {
+  margin-top: 25px;
+  padding-left: 645px;
+  cursor: pointer;
+}
+
+.button {
+  margin-top: 26px;
+  background-color: #2b788b;
+  width: 86px;
+  height: 30px;
+  color: white;
+  padding-top: 2px;
+  text-align: center;
+  border-radius: 7px;
+  cursor: pointer;
+}
+
+.down-left {
+  position: absolute;
+  width: 560.95px;
+  height: 580px;
+  left: 113.02px;
+  top: 80.56px;
+  /* border: 6px solid red; */
+}
+
+.down-left .left-upper .left-first{
+    padding-top: 114px;
+    color: #2B788B;
+}
+
+.left_second {
+    font-family: 'Dela Gothic One', cursive;
+    font-size: 59px;
+    line-height: 100%;
+    padding-top: 23px;
+}
+
+.left_third {
+    width: 340px;
+    padding-top: 32px;
+}
+
+.left-mid{
+    display: flex;
+    padding-top: 44px;
+}
+
+.signin{
+    padding-top: 4px;
+    width: 70px;
+}
+
+.learn {
+    width: 110px;
+    color: #2B788B;
+    background: #C3DCE3;
+    text-align: center;
+    height: 29px;
+    padding-top: 2px;
+    border-radius: 8px;
+    margin-left: 23px;
+}
+
+.left_bottom{
+    display: flex;
+    margin-top: 30px;
+}
+
+.left_logo img{
+    width: 21px;
+    height: 28px;
+    margin-top: 13px;
+}
+
+.left_num{
+    font-family: 'Dela Gothic One', cursive;
+    font-size: 32px;
+}
+
+.left_left_content {
+    font-size: 11px;
+    margin-left: 10px;
+}
+
+.left_line {
+    font-size: 50px;
+    margin-left: 44px;
+    opacity: 0.1;
+}
+
+.right_logo img{
+    width: 21px;
+    height: 28px;
+    margin-top: 13px;
+}
+
+.right_num{
+    font-family: 'Dela Gothic One', cursive;
+    font-size: 32px;
+}
+
+.right_right_content{
+    font-size: 11px;
+    margin-left: 10px;
+}
+
+.right_logo {
+    margin-left: 47px;
+}
+
+.right_right_content{
+    margin-left: 72px;
+}
+
+ .img2 {
+    Width: 508.03px;
+    Height: 358.28px;
+    margin-top: 155px;
+    margin-left: -536px;
+}
+
+.img3{
+    margin-top: 178px;
+    margin-left: -325px;
+    height: 500px;
+}
